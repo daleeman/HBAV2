@@ -1,0 +1,6 @@
+@HBA.WebAPI_HostAddress = http://localhost:5277
+
+GET {{HBA.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -14,11 +14,11 @@ namespace HBA.Web.Controllers
         private readonly IPropertyTypeService _propertyTypeService;
         private readonly ICommissionSetupService _commissionSetupService;
 
-        public PropertyController(IPropertyService propertyRepository, IPropertyTypeService propertyTypeRepository, ICommissionSetupService commissionSetupRepository)
+        public PropertyController(IPropertyService propertyService, IPropertyTypeService propertyTypeService, ICommissionSetupService commissionSetupService)
         {
-            _propertyService = propertyRepository;
-            _propertyTypeService = propertyTypeRepository;
-            _commissionSetupService = commissionSetupRepository;
+            _propertyService = propertyService;
+            _propertyTypeService = propertyTypeService;
+            _commissionSetupService = commissionSetupService;
         }
 
         [Authorize(Roles = "Broker,Seeker")]
