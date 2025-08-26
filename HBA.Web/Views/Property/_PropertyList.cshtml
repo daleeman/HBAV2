@@ -1,0 +1,40 @@
+﻿@model IEnumerable<PropertyViewModel>
+
+@{
+    var IsBroker = User.IsInRole("Broker");
+}
+
+<table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.First().PropertyName)</th>
+            <th>@Html.DisplayNameFor(model => model.First().PropertyTypeName)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Location)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Price)</th>
+            @if (IsBroker)
+            {
+                <th>@Html.DisplayNameFor(model => model.First().CommissionValue)</th>
+            }
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var property in Model)
+        {
+            <tr>
+                <td>@property.PropertyName</td>
+                <td>@property.PropertyTypeName</td>
+                <td>@property.Location</td>
+                <td>@property.Price.ToString("C")</td>
+                @if (IsBroker)
+                {
+                    <td>@property.CommissionValue.ToString("C")</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@property.Id" class="btn btn-sm btn-warning">Edit</a>
+                        <a propertyId="@property.Id" class="btn btn-sm btn-danger deleteProperty">Delete</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>

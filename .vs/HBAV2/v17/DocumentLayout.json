@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.web\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|solutionrelative:hba.web\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A504CD-503D-4AB4-A6EF-AD28562DB30D}|HBA.Application\\HBA.Application.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.application\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A504CD-503D-4AB4-A6EF-AD28562DB30D}|HBA.Application\\HBA.Application.csproj|solutionrelative:hba.application\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A504CD-503D-4AB4-A6EF-AD28562DB30D}|HBA.Application\\HBA.Application.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.application\\interfaces\\services\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A504CD-503D-4AB4-A6EF-AD28562DB30D}|HBA.Application\\HBA.Application.csproj|solutionrelative:hba.application\\interfaces\\services\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A504CD-503D-4AB4-A6EF-AD28562DB30D}|HBA.Application\\HBA.Application.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.application\\services\\propertytypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A504CD-503D-4AB4-A6EF-AD28562DB30D}|HBA.Application\\HBA.Application.csproj|solutionrelative:hba.application\\services\\propertytypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A504CD-503D-4AB4-A6EF-AD28562DB30D}|HBA.Application\\HBA.Application.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.application\\interfaces\\services\\ipropertytypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A504CD-503D-4AB4-A6EF-AD28562DB30D}|HBA.Application\\HBA.Application.csproj|solutionrelative:hba.application\\interfaces\\services\\ipropertytypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8B64F1-4BEF-4232-8220-A1B3AC20391F}|HBA.Infrastructure\\HBA.Infrastructure.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.infrastructure\\repository\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8B64F1-4BEF-4232-8220-A1B3AC20391F}|HBA.Infrastructure\\HBA.Infrastructure.csproj|solutionrelative:hba.infrastructure\\repository\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF094EE6-21B9-4A42-BACE-30D64E295D9E}|HBA.Domain\\HBA.Domain.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.domain\\interfaces\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF094EE6-21B9-4A42-BACE-30D64E295D9E}|HBA.Domain\\HBA.Domain.csproj|solutionrelative:hba.domain\\interfaces\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF094EE6-21B9-4A42-BACE-30D64E295D9E}|HBA.Domain\\HBA.Domain.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.domain\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF094EE6-21B9-4A42-BACE-30D64E295D9E}|HBA.Domain\\HBA.Domain.csproj|solutionrelative:hba.domain\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8B64F1-4BEF-4232-8220-A1B3AC20391F}|HBA.Infrastructure\\HBA.Infrastructure.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8B64F1-4BEF-4232-8220-A1B3AC20391F}|HBA.Infrastructure\\HBA.Infrastructure.csproj|solutionrelative:hba.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.web\\views\\property\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|solutionrelative:hba.web\\views\\property\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.web\\views\\property\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|solutionrelative:hba.web\\views\\property\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.web\\views\\property\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|solutionrelative:hba.web\\views\\property\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.web\\views\\property\\_propertylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|solutionrelative:hba.web\\views\\property\\_propertylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.web\\models\\propertyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|solutionrelative:hba.web\\models\\propertyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8B64F1-4BEF-4232-8220-A1B3AC20391F}|HBA.Infrastructure\\HBA.Infrastructure.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.infrastructure\\applicationdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8B64F1-4BEF-4232-8220-A1B3AC20391F}|HBA.Infrastructure\\HBA.Infrastructure.csproj|solutionrelative:hba.infrastructure\\applicationdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|solutionrelative:hba.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A504CD-503D-4AB4-A6EF-AD28562DB30D}|HBA.Application\\HBA.Application.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A504CD-503D-4AB4-A6EF-AD28562DB30D}|HBA.Application\\HBA.Application.csproj|solutionrelative:hba.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A504CD-503D-4AB4-A6EF-AD28562DB30D}|HBA.Application\\HBA.Application.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.application\\services\\commissioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A504CD-503D-4AB4-A6EF-AD28562DB30D}|HBA.Application\\HBA.Application.csproj|solutionrelative:hba.application\\services\\commissioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF094EE6-21B9-4A42-BACE-30D64E295D9E}|HBA.Domain\\HBA.Domain.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.domain\\entities\\commissionsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF094EE6-21B9-4A42-BACE-30D64E295D9E}|HBA.Domain\\HBA.Domain.csproj|solutionrelative:hba.domain\\entities\\commissionsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A504CD-503D-4AB4-A6EF-AD28562DB30D}|HBA.Application\\HBA.Application.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.application\\services\\commissionsetupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A504CD-503D-4AB4-A6EF-AD28562DB30D}|HBA.Application\\HBA.Application.csproj|solutionrelative:hba.application\\services\\commissionsetupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8B64F1-4BEF-4232-8220-A1B3AC20391F}|HBA.Infrastructure\\HBA.Infrastructure.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.infrastructure\\repository\\commissionsetuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8B64F1-4BEF-4232-8220-A1B3AC20391F}|HBA.Infrastructure\\HBA.Infrastructure.csproj|solutionrelative:hba.infrastructure\\repository\\commissionsetuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF094EE6-21B9-4A42-BACE-30D64E295D9E}|HBA.Domain\\HBA.Domain.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.domain\\interfaces\\icommissionsetuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF094EE6-21B9-4A42-BACE-30D64E295D9E}|HBA.Domain\\HBA.Domain.csproj|solutionrelative:hba.domain\\interfaces\\icommissionsetuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF094EE6-21B9-4A42-BACE-30D64E295D9E}|HBA.Domain\\HBA.Domain.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF094EE6-21B9-4A42-BACE-30D64E295D9E}|HBA.Domain\\HBA.Domain.csproj|solutionrelative:hba.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A504CD-503D-4AB4-A6EF-AD28562DB30D}|HBA.Application\\HBA.Application.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.application\\interfaces\\services\\icommissionsetupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A504CD-503D-4AB4-A6EF-AD28562DB30D}|HBA.Application\\HBA.Application.csproj|solutionrelative:hba.application\\interfaces\\services\\icommissionsetupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF094EE6-21B9-4A42-BACE-30D64E295D9E}|HBA.Domain\\HBA.Domain.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.domain\\interfaces\\ipropertytyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF094EE6-21B9-4A42-BACE-30D64E295D9E}|HBA.Domain\\HBA.Domain.csproj|solutionrelative:hba.domain\\interfaces\\ipropertytyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|solutionrelative:hba.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|solutionrelative:hba.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8B64F1-4BEF-4232-8220-A1B3AC20391F}|HBA.Infrastructure\\HBA.Infrastructure.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8B64F1-4BEF-4232-8220-A1B3AC20391F}|HBA.Infrastructure\\HBA.Infrastructure.csproj|solutionrelative:hba.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.web\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|solutionrelative:hba.web\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|solutionrelative:hba.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.web\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|solutionrelative:hba.web\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86D37440-4718-4EF3-AAC3-913761A9F3B3}|HBA.Web\\HBA.Web.csproj|solutionrelative:hba.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8B64F1-4BEF-4232-8220-A1B3AC20391F}|HBA.Infrastructure\\HBA.Infrastructure.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.infrastructure\\repository\\propertytyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8B64F1-4BEF-4232-8220-A1B3AC20391F}|HBA.Infrastructure\\HBA.Infrastructure.csproj|solutionrelative:hba.infrastructure\\repository\\propertytyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF094EE6-21B9-4A42-BACE-30D64E295D9E}|HBA.Domain\\HBA.Domain.csproj|c:\\users\\dalee\\source\\repos\\hbav2\\hba.domain\\entities\\propertytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF094EE6-21B9-4A42-BACE-30D64E295D9E}|HBA.Domain\\HBA.Domain.csproj|solutionrelative:hba.domain\\entities\\propertytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "HBA.Web\\Controllers\\PropertyController.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "HBA.Web\\Controllers\\PropertyController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:11:50.014Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Views\\Property\\Index.cshtml",
+              "RelativeDocumentMoniker": "HBA.Web\\Views\\Property\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Views\\Property\\Index.cshtml",
+              "RelativeToolTip": "HBA.Web\\Views\\Property\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T12:38:29.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Application\\Services\\PropertyService.cs",
+              "RelativeDocumentMoniker": "HBA.Application\\Services\\PropertyService.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Application\\Services\\PropertyService.cs",
+              "RelativeToolTip": "HBA.Application\\Services\\PropertyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:14:59.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Domain\\Entities\\Property.cs",
+              "RelativeDocumentMoniker": "HBA.Domain\\Entities\\Property.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Domain\\Entities\\Property.cs",
+              "RelativeToolTip": "HBA.Domain\\Entities\\Property.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:29:53.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Infrastructure\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "HBA.Infrastructure\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Infrastructure\\Repository\\Repository.cs",
+              "RelativeToolTip": "HBA.Infrastructure\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:54:19.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPropertyTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Application\\Interfaces\\Services\\IPropertyTypeService.cs",
+              "RelativeDocumentMoniker": "HBA.Application\\Interfaces\\Services\\IPropertyTypeService.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Application\\Interfaces\\Services\\IPropertyTypeService.cs",
+              "RelativeToolTip": "HBA.Application\\Interfaces\\Services\\IPropertyTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:59:25.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropertyTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Application\\Services\\PropertyTypeService.cs",
+              "RelativeDocumentMoniker": "HBA.Application\\Services\\PropertyTypeService.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Application\\Services\\PropertyTypeService.cs",
+              "RelativeToolTip": "HBA.Application\\Services\\PropertyTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:59:35.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Domain\\Interfaces\\IPropertyRepository.cs",
+              "RelativeDocumentMoniker": "HBA.Domain\\Interfaces\\IPropertyRepository.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Domain\\Interfaces\\IPropertyRepository.cs",
+              "RelativeToolTip": "HBA.Domain\\Interfaces\\IPropertyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:43:13.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Infrastructure\\Repository\\PropertyRepository.cs",
+              "RelativeDocumentMoniker": "HBA.Infrastructure\\Repository\\PropertyRepository.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Infrastructure\\Repository\\PropertyRepository.cs",
+              "RelativeToolTip": "HBA.Infrastructure\\Repository\\PropertyRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:50:34.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Application\\Interfaces\\Services\\IPropertyService.cs",
+              "RelativeDocumentMoniker": "HBA.Application\\Interfaces\\Services\\IPropertyService.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Application\\Interfaces\\Services\\IPropertyService.cs",
+              "RelativeToolTip": "HBA.Application\\Interfaces\\Services\\IPropertyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:25:35.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Views\\Property\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HBA.Web\\Views\\Property\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Views\\Property\\Edit.cshtml",
+              "RelativeToolTip": "HBA.Web\\Views\\Property\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T12:38:16.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICommissionSetupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Domain\\Interfaces\\ICommissionSetupRepository.cs",
+              "RelativeDocumentMoniker": "HBA.Domain\\Interfaces\\ICommissionSetupRepository.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Domain\\Interfaces\\ICommissionSetupRepository.cs",
+              "RelativeToolTip": "HBA.Domain\\Interfaces\\ICommissionSetupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:49:22.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Views\\Property\\Create.cshtml",
+              "RelativeDocumentMoniker": "HBA.Web\\Views\\Property\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Views\\Property\\Create.cshtml",
+              "RelativeToolTip": "HBA.Web\\Views\\Property\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T12:37:38.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PropertyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Models\\PropertyViewModel.cs",
+              "RelativeDocumentMoniker": "HBA.Web\\Models\\PropertyViewModel.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Models\\PropertyViewModel.cs",
+              "RelativeToolTip": "HBA.Web\\Models\\PropertyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:25:54.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CommissionSetupService.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Application\\Services\\CommissionSetupService.cs",
+              "RelativeDocumentMoniker": "HBA.Application\\Services\\CommissionSetupService.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Application\\Services\\CommissionSetupService.cs",
+              "RelativeToolTip": "HBA.Application\\Services\\CommissionSetupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:03:32.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Infrastructure\\ApplicationDbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HBA.Infrastructure\\ApplicationDbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Infrastructure\\ApplicationDbContext\\AppDbContext.cs",
+              "RelativeToolTip": "HBA.Infrastructure\\ApplicationDbContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:17:51.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "HBA.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "HBA.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:22:30.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_PropertyList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Views\\Property\\_PropertyList.cshtml",
+              "RelativeDocumentMoniker": "HBA.Web\\Views\\Property\\_PropertyList.cshtml",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Views\\Property\\_PropertyList.cshtml",
+              "RelativeToolTip": "HBA.Web\\Views\\Property\\_PropertyList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T12:38:48.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HBA.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HBA.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:08:14.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommissionSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Domain\\Entities\\CommissionSetup.cs",
+              "RelativeDocumentMoniker": "HBA.Domain\\Entities\\CommissionSetup.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Domain\\Entities\\CommissionSetup.cs",
+              "RelativeToolTip": "HBA.Domain\\Entities\\CommissionSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:30:16.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommissionCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Application\\Services\\CommissionCalculator.cs",
+              "RelativeDocumentMoniker": "HBA.Application\\Services\\CommissionCalculator.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Application\\Services\\CommissionCalculator.cs",
+              "RelativeToolTip": "HBA.Application\\Services\\CommissionCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:36:06.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CommissionSetupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Infrastructure\\Repository\\CommissionSetupRepository.cs",
+              "RelativeDocumentMoniker": "HBA.Infrastructure\\Repository\\CommissionSetupRepository.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Infrastructure\\Repository\\CommissionSetupRepository.cs",
+              "RelativeToolTip": "HBA.Infrastructure\\Repository\\CommissionSetupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:50:17.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "HBA.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "HBA.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:49:36.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICommissionSetupService.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Application\\Interfaces\\Services\\ICommissionSetupService.cs",
+              "RelativeDocumentMoniker": "HBA.Application\\Interfaces\\Services\\ICommissionSetupService.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Application\\Interfaces\\Services\\ICommissionSetupService.cs",
+              "RelativeToolTip": "HBA.Application\\Interfaces\\Services\\ICommissionSetupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:03:24.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPropertyTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Domain\\Interfaces\\IPropertyTypeRepository.cs",
+              "RelativeDocumentMoniker": "HBA.Domain\\Interfaces\\IPropertyTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Domain\\Interfaces\\IPropertyTypeRepository.cs",
+              "RelativeToolTip": "HBA.Domain\\Interfaces\\IPropertyTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:49:09.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Program.cs",
+              "RelativeDocumentMoniker": "HBA.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Program.cs",
+              "RelativeToolTip": "HBA.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:18:18.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "HBA.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "HBA.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:21:51.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "HBA.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\appsettings.json",
+              "RelativeToolTip": "HBA.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T10:24:34.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "HBA.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "HBA.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T11:49:58.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "HBA.Web\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "HBA.Web\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:09:37.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_LayoutLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeDocumentMoniker": "HBA.Web\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeToolTip": "HBA.Web\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T11:50:32.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HBA.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HBA.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T11:51:24.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PropertyTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Infrastructure\\Repository\\PropertyTypeRepository.cs",
+              "RelativeDocumentMoniker": "HBA.Infrastructure\\Repository\\PropertyTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Infrastructure\\Repository\\PropertyTypeRepository.cs",
+              "RelativeToolTip": "HBA.Infrastructure\\Repository\\PropertyTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:50:51.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PropertyType.cs",
+              "DocumentMoniker": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Domain\\Entities\\PropertyType.cs",
+              "RelativeDocumentMoniker": "HBA.Domain\\Entities\\PropertyType.cs",
+              "ToolTip": "C:\\Users\\Dalee\\source\\repos\\HBAV2\\HBA.Domain\\Entities\\PropertyType.cs",
+              "RelativeToolTip": "HBA.Domain\\Entities\\PropertyType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:30:06.642Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
