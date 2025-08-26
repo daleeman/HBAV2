@@ -1,0 +1,92 @@
+﻿@model IEnumerable<PropertyViewModel>
+
+@{
+    ViewData["Title"] = "Property";
+    var IsBroker = User.IsInRole("Broker");
+}
+
+<h2>Property</h2>
+
+@if (IsBroker)
+{
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Add New Property</a>
+    </p>
+
+}
+<div class="mb-3">
+    <label>Min Price:</label>
+    <input type="number" id="minPrice" placeholder="Min Price" class="form-control d-inline-block" style="width:120px;" />
+    <label>Max Price:</label>
+    <input type="number" id="maxPrice" placeholder="Max Price" class="form-control d-inline-block ml-2" style="width:120px;" />
+
+    <label class="ml-4">Property Type:</label>
+    <select id="propertyTypeIdFilter" class="form-control d-inline-block ml-2" style="width:200px;">
+        <option value="">All Types</option>
+        @foreach (var item in ViewBag.PropertyTypes as IEnumerable<SelectListItem>)
+        {
+            <option value="@item.Value">@item.Text</option>
+        }
+    </select>
+
+    <button id="filterBtn" class="btn btn-primary ml-3">Filter</button>
+</div>
+<div id="propertyListContainer">
+    @await Html.PartialAsync("_PropertyList", Model)
+</div>
+
+
+@section Scripts {
+
+    <script>
+        $(document).ready(function(){
+
+            $('.deleteProperty').click(function(){
+            var propertyId = $(this).attr('propertyId');
+
+                    $.ajax({
+                        url: '/property/delete',
+                        type: 'POST',
+                        data: {
+                            id: propertyId,
+                        },
+                        dataType: 'json',
+                        success: function(response) {
+                            if (response.success) {
+                                location.reload(); // redirect
+                            } else {
+                                alert("Error: " + response.error);
+                            }
+                        },
+                        error: function(error) {
+                            console.error(error);
+                        }
+                    });
+            });
+
+            $('#filterBtn').click(function () {
+                var minPrice = $('#minPrice').val();
+                var maxPrice = $('#maxPrice').val();
+                var propertyTypeId = $('#propertyTypeIdFilter').val();
+
+                $.ajax({
+                    url: '/property/filteredproperties',
+                    type: 'GET',
+                    data: {
+                        minPrice: minPrice,
+                        maxPrice: maxPrice,
+                        propertyTypeId: propertyTypeId
+                    },
+                    success: function (result) {
+                        $('#propertyListContainer').html(result); // replace table with filtered data
+                    },
+                    error: function () {
+                        alert('Error loading filtered properties.');
+                    }
+                });
+            });
+
+        });
+    </script>
+
+}
